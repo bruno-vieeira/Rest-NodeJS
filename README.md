@@ -1,5 +1,5 @@
-# Rest com NodeJS: API com Express e MySQL: Curso Alura
-![cap](Capturar.png)
+# Rest com NodeJS: API com Express e MySQL: Curso Alura 🧑🏻‍💻
+![cap](captc.png)
 - API
 - ⏲️ Carga horária: 8h
 ### Objetivos do curso:
